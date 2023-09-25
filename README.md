@@ -5,4 +5,3 @@ An Assignment on how to use Git and Github.
 1. Created a new repository.
 2. Create a new branch.
 3. Merge changes from the new branch to the master.
-4. 
